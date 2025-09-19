@@ -1,2 +1,2 @@
-# xliang576.github.io
-Personal website
+# Website
+A personal website of Xintong Iris Liang that hasn't been built.
